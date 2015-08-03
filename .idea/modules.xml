@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MiniSNS.iml" filepath="$PROJECT_DIR$/MiniSNS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sql/sql.iml" filepath="$PROJECT_DIR$/sql/sql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/umeng_community_android_library/umeng_community_android_library.iml" filepath="$PROJECT_DIR$/umeng_community_android_library/umeng_community_android_library.iml" />
+    </modules>
+  </component>
+</project>
